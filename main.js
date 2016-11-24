@@ -1,4 +1,3 @@
-alert('Sercan!');
 var electron = require('electron');
 var dialog = electron.remote.dialog;
 var fs = require('fs');

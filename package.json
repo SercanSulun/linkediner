@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/SercanSulun/linkediner#readme",
   "devDependencies": {
+    "electron-packager": "^8.3.0",
     "electron-prebuilt": "^1.4.9"
   },
   "dependencies": {
