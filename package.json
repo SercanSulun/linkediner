@@ -23,6 +23,7 @@
     "electron-prebuilt": "^1.4.9"
   },
   "dependencies": {
+    "excel4node": "^1.2.1",
     "iconv-lite": "^0.4.15"
   }
 }
